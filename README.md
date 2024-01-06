@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MementoMori&fontSize=90)
 
  ## 🛠 **Stacks**
 
@@ -25,4 +25,4 @@
 ## 👨‍💻 **current**
  <a href="https://github.com/khk37601"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khk37601&layout=compact&theme=nord&hide_border=true" /></a>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khk37601)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khk37601&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
